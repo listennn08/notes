@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "e0069343d6ee9964",
+    "type": "split",
+    "children": [
+      {
+        "id": "48fdd4037bf964fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b59ba01884c42d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mongo/Restore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dd336067e0835f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "681e6301efa0df68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b902db0e315a0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8448d6fa1b9759b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bcc9c81a822762c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9eca7fb647cdd703",
+    "type": "split",
+    "children": [
+      {
+        "id": "161b882fe96a2131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff76014683866c8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mongo/Restore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abdb4f7359d14c59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mongo/Restore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1258ac66f6e30245",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4266e74f4ad89a45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mongo/Restore.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4b902db0e315a0d",
+  "lastOpenFiles": [
+    "node/nvm.md",
+    "mongo/Restore.md",
+    "mongo",
+    "node"
+  ]
+}
